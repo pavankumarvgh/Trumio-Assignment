@@ -3,7 +3,7 @@
 
 ## Setup
 
-npm install
+npm install 
 npx playwright install
 
 ## Run Tests
